@@ -11,4 +11,4 @@ L'objectif de ce TP est de développer une application mobile (très simplifiée
 
 1) Jeu du pendu classique
    
-Faire deviner un mot. Implémentation manuelle du clavier et de l'image du gibet de potence.
+Faire deviner un mot. 3 modes de difficulté : facile, moyen, difficile. Implémentation manuelle du clavier et de l'image du gibet de potence.
